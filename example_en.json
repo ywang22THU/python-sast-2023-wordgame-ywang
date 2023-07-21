@@ -1,0 +1,28 @@
+{
+    "language": "en",
+    "articles": [
+        {
+            "title": "2023-Beijing",
+            "article": "I was always timid(\u7f9e\u602f\u7684). Being new to the school made me even {{1}} , so it was surprising I'd {{2}} to anyone around me. Now I was paying the price\ufe63to write a five\ufe63page essay on \"Why I Should Not Talk in Class\". That would take all night! After I got home, though. I took my time petting the cat\ufe63postponing the pain. When I finally sat down to {{3}}, I began with the reasons Ms Black would want to hear. Talking kept me and my neighbours from {{4}}. One paragraph down; now what? I chewed on my pencil. Aha! What if talking were the first step towards life as a criminal? Without the education I was throwing away, I'd turn to theft and go to prison. When I got out, people would say, \"She used to talk in class.\" The pages began {{5}}. But when mum got home from work, I was still {{6}}, \"Five pages! That's impossible!\" \"Well, you'd better get back to work,\" she said. \"and I want to read it when you're through.\" Soon after dinner, I handed the essay to mum. I half expected a {{7}}\ufe63at least an \"I hope you've learned your lesson\". {{8}}, mum laughed and laughed as she read. The next day, when Ms Black read the essay to the class, everyone laughed. I could {{9}} they weren't making fun of me: they laughed because I had the power to tell a funny story. My {{10}} still needed some nudging(\u6fc0\u53d1), but I did learn I wasn't shy in print.",
+            "hints": [
+                "freer shyer calmer happier\u4e2d\u7684\u4e00\u4e2a",
+                "nod point listen chat\u4e2d\u7684\u4e00\u4e2a",
+                "weep rest write read\u4e2d\u7684\u4e00\u4e2a",
+                "learning playing planning laughing\u4e2d\u7684\u4e00\u4e2a",
+                "standing out | flying by | breaking up | checking in\u4e2d\u7684\u4e00\u4e2a",
+                "celebrating longing complaining warning\u4e2d\u7684\u4e00\u4e2a",
+                "lecture reason reward solution\u4e2d\u7684\u4e00\u4e2a",
+                "Therefore Moreover Meanwhile Instead\u4e2d\u7684\u4e00\u4e2a",
+                "hope imagine tell predict\u4e2d\u7684\u4e00\u4e2a",
+                "patience confidence tolerance independence\u4e2d\u7684\u4e00\u4e2a"
+            ]
+        },
+        {
+            "title": "a",
+            "article": "a{{1}}",
+            "hints": [
+                "a"
+            ]
+        }
+    ]
+}
